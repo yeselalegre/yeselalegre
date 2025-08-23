@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! I'm Yesel Alegre. You can call me “Yesel” 👋💗
 
-<!--
-**yeselalegre/yeselalegre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ **About Me** </br>
+- BSIT Student at Laguna State Polytechnic University </br>
+- Currently learning Python </br>
 
-Here are some ideas to get you started:
+## 😀 **Goals** </br>
+- To become a skilled Web and Mobile Application Developer (Front-end) </br>
+- Interested in Software Development, UI/UX Design </br>
+- Be able to work, and develop a project </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💾 **Skills** </br>
+- Languages (📌 Beginner level): C#, Python, HTML </br>
+
+## ✒️ **Contact** </br>
+- Email: yesel.alegre0206@gmail.com </br>
