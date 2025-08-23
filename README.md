@@ -6,11 +6,11 @@
 
 ## 😀 **Goals** </br>
 - To become a skilled Web and Mobile Application Developer (Front-end) </br>
-- Interested in Software Development, UI/UX Design </br>
+- Interested in Software Development, and UI/UX Design </br>
 - Be able to work, and develop a project </br>
 
 ## 💾 **Skills** </br>
-- Languages (📌 Beginner level): C#, Python, HTML </br>
+- Languages (📌 Beginner level): C#, Python, and HTML </br>
 
 ## ✒️ **Contact** </br>
 - Email: yesel.alegre0206@gmail.com </br>
